@@ -9,12 +9,12 @@ In this repository, you'll find solutions to coding problems categorized by plat
 
 The repository is organized as follows:
 
-coding-challenges/
-    ├─LeetCode/
+Leetcode-Problems/
+    ├─ LeetCode/
     ├── Easy/
     ├── Medium/
-    └── Hard/
-     └── Sql 
+    ├── Hard/
+    └── SQL/
 
 
 ## Languages Used
