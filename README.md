@@ -17,6 +17,13 @@ coding-challenges/
      └── Sql 
 
 
+## Languages Used
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+This repository contains solutions primarily written in **Java** for LeetCode problems and **SQL** for database-related challenges.
+
   
 ## How to Use
 
