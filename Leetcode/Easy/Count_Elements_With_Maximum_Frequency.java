@@ -1,6 +1,5 @@
 // Problem No: 3005
-// Problem Name: Count 
-Elements With Maximum Frequency
+// Problem Name: Count Elements With Maximum Frequency
 
 class Solution {
     public int maxFrequencyElements(int[] nums) 
